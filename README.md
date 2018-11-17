@@ -1,5 +1,4 @@
 # python3-tictactoe
-Python-Tic-Tac-Toe
 
 Dynamic Tic Tac Toe in console
 
